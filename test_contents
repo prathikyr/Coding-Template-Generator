@@ -1,0 +1,16 @@
+
+int solve(){
+
+
+
+	return 0;
+}
+
+int main(){
+	ios_base::sync_with_stdio(false);
+	int t;
+	scanf("%d", &t);
+	while(t--)
+		solve();
+	return 0;
+}
